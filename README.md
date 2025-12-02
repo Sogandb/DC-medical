@@ -3,7 +3,7 @@
 This project focuses on cleaning and preprocessing a real-world medical appointment dataset.  
 The goal is to prepare the data for analysis or machine learning.
 
-## 🧹 Cleaning Steps
+##Cleaning Steps
 - Remove duplicate rows  
 - Handle missing values  
 - Convert categorical columns  
@@ -11,11 +11,11 @@ The goal is to prepare the data for analysis or machine learning.
 - Remove impossible/invalid values  
 - Export clean dataset  
 
-## 🛠 Tools
+##Tools
 - Python
 - Pandas
 
-## 📦 Output
+##Output
 - `cleaned_appointments.csv`
 
 This project demonstrates practical and essential data cleaning skills.
